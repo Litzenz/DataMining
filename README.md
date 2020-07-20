@@ -1,2 +1,2 @@
-# INFOSYS722
-for Iteration 4
+# Bike Sharing Analysis with pyspark on AWS
+for Iteration 4 of INFOSYS722
